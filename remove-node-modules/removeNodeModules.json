@@ -1,0 +1,69 @@
+{
+  "removeNodeModulesDirs": [
+    {
+      "name": "chat-api",
+      "route": "D:\\workspace-personal\\NodeJs\\chat-api",
+      "removeNodeModules": false
+    },
+    {
+      "name": "chat-api-graphql",
+      "route": "D:\\workspace-personal\\NodeJs\\chat-api-graphql",
+      "removeNodeModules": false
+    },
+    {
+      "name": "foro-api-rest",
+      "route": "D:\\workspace-personal\\NodeJs\\foro-api-rest",
+      "removeNodeModules": false
+    },
+    {
+      "name": "graphql-api",
+      "route": "D:\\workspace-personal\\NodeJs\\graphql-api",
+      "removeNodeModules": false
+    },
+    {
+      "name": "ImageResizer",
+      "route": "D:\\workspace-personal\\NodeJs\\ImageResizer",
+      "removeNodeModules": false
+    },
+    {
+      "name": "insta-server",
+      "route": "D:\\workspace-personal\\NodeJs\\insta-server",
+      "removeNodeModules": false
+    },
+    {
+      "name": "json-server-with-jwt-auth",
+      "route": "D:\\workspace-personal\\NodeJs\\json-server-with-jwt-auth",
+      "removeNodeModules": false
+    },
+    {
+      "name": "miwod-api",
+      "route": "D:\\workspace-personal\\NodeJs\\miwod-api",
+      "removeNodeModules": false
+    },
+    {
+      "name": "pruebajson-server",
+      "route": "D:\\workspace-personal\\NodeJs\\pruebajson-server",
+      "removeNodeModules": false
+    },
+    {
+      "name": "social-network-api",
+      "route": "D:\\workspace-personal\\NodeJs\\social-network-api",
+      "removeNodeModules": false
+    },
+    {
+      "name": "social-network-api-graphql",
+      "route": "D:\\workspace-personal\\NodeJs\\social-network-api-graphql",
+      "removeNodeModules": false
+    },
+    {
+      "name": "tensflowprueba",
+      "route": "D:\\workspace-personal\\NodeJs\\tensflowprueba",
+      "removeNodeModules": false
+    },
+    {
+      "name": "users-api",
+      "route": "D:\\workspace-personal\\NodeJs\\users-api",
+      "removeNodeModules": false
+    }
+  ]
+}
